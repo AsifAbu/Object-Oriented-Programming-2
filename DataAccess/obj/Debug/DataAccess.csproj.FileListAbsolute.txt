@@ -1,0 +1,21 @@
+C:\Users\Asif\Desktop\PM\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Asif\Desktop\PM\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Asif\Desktop\PM\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Asif\Desktop\PM\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Asif\Desktop\PM\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Asif\Desktop\ParkingManagementSystem\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Asif\Desktop\ParkingManagementSystem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Asif\Desktop\ParkingManagementSystem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Asif\Desktop\ParkingManagementSystem\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Asif\Desktop\ParkingManagementSystem\DataAccess\obj\Debug\DataAccess.pdb
+F:\ParkingManagementSystem\DataAccess\bin\Debug\DataAccess.dll
+F:\ParkingManagementSystem\DataAccess\bin\Debug\DataAccess.pdb
+F:\ParkingManagementSystem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\ParkingManagementSystem\DataAccess\obj\Debug\DataAccess.dll
+F:\ParkingManagementSystem\DataAccess\obj\Debug\DataAccess.pdb
+E:\SEMISTER 6\New folder\C # Project Backup\Final Project\ParkingManagementSystem\DataAccess\bin\Debug\DataAccess.dll
+E:\SEMISTER 6\New folder\C # Project Backup\Final Project\ParkingManagementSystem\DataAccess\bin\Debug\DataAccess.pdb
+E:\SEMISTER 6\New folder\C # Project Backup\Final Project\ParkingManagementSystem\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\SEMISTER 6\New folder\C # Project Backup\Final Project\ParkingManagementSystem\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\SEMISTER 6\New folder\C # Project Backup\Final Project\ParkingManagementSystem\DataAccess\obj\Debug\DataAccess.dll
+E:\SEMISTER 6\New folder\C # Project Backup\Final Project\ParkingManagementSystem\DataAccess\obj\Debug\DataAccess.pdb
